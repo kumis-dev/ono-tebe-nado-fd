@@ -1,5 +1,5 @@
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 400;
 }
 
@@ -26,7 +26,7 @@ body {
 .address {
   display: flex;
   flex-direction: column;
-  gap: 5px; 
+  gap: 5px;
   font-style: normal;
 }
 
@@ -36,7 +36,7 @@ body {
 
 .header__address {
   justify-self: end;
-  width: 240px; 
+  width: 240px;
   text-align: left;
 }
 
@@ -128,7 +128,7 @@ body {
   font-weight: 500;
   font-size: 22px;
   z-index: 2;
-  
+
   color: #fff;
   text-transform: uppercase;
   background: transparent;
