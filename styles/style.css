@@ -6,7 +6,6 @@ body {
 .header {
   margin: 0 auto;
   width: 1100px;
-  
   display: grid;
   font-size: 18px;
   line-height: 21px;
