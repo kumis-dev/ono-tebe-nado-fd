@@ -50,7 +50,6 @@ body {
 }
 
 .header__links-list-item {
-  white-space: nowrap;
   align-items: center;
 }
 
@@ -112,7 +111,6 @@ body {
   line-height: 28px;
   text-transform: uppercase;
   word-spacing: 18px;
-  white-space: nowrap;
   color: #fff;
   z-index: 2;
   margin-bottom: 8px;
